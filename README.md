@@ -1,2 +1,2 @@
-# DATA24-
+# StrataScratchEDA
 UCI DATATHON 2024
